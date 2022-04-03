@@ -1,0 +1,95 @@
+
+
+body {
+    margin: 0;
+    background-image: url("../img/dark-triangles.png");
+    font-family: Tahoma;
+    line-height: 1.5;
+    font-size: 18px;
+    
+}
+
+.card { 
+    width: 340px;
+    margin: 30px auto;
+    padding: 50px;
+    background-image: url("../img/stripes-light.png");
+    box-shadow: 0 5px 10px
+    #ccc;
+    border-radius: 10px;
+}
+.card-photo {
+    display: block;
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.card-title {
+    font-size: 20px;
+    text-align: center;
+    color: #3d2847
+}
+.card-text {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.links {
+    display: flex;
+    max-width: 300px;
+    width: 100%;
+    justify-content: space-between;
+    line-height: 2.5;
+    color: #000000;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.links a {
+  text-decoration: none;
+}
+
+form {
+  margin-top: 20px;
+}
+
+form input {
+  border: 0;
+  height: 20px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+form input::-webkit-input-placeholder {
+  color: rgb(128, 0, 0);
+}
+
+form input:-ms-input-placeholder {
+  color: rgb(128, 0, 0);
+}
+
+form input::-ms-input-placeholder {
+  color: rgb(128, 0, 0);
+}
+
+form input::placeholder {
+  color: rgb(128, 0, 0);
+}
+
+form button {
+  background-color: rgb(224, 0, 11);
+  border: 0;
+  height: 20px;
+}
+
+.back {
+  color: rgb(201, 38, 38)
+}
+.number {
+  color:rgb(201, 38, 38)
+}
+a {
+  color: #0d3e5f;
+  font-size: 20px;
+}
