@@ -1,6 +1,6 @@
 # My portfolio
 
-Link to website -> [https://vekaev.github.io/t_p13_final_proj/](https://vekaev.github.io/t_p13_final_proj/)
+Link to website -> https://svyatoslavpy.github.io/project/client/index.html
 
 - Frontend - `HTML, CSS, JavaScript`
 - Backend - `FastApi (Python)`
